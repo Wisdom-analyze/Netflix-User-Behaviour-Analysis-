@@ -1,5 +1,7 @@
 # Netflix-User-Behaviour-Analysis-
-##Project Overview: Netflix User Behavior & Churn Analysis
+## Project Overview
+Netflix User Behavior & Churn Analysis
+
 This project looks at the behavior and subscription habits of 50,000 Netflix users across 10 countries, trying to understand why some people stop using the platform and what keeps others engaged.
 One of the central concepts in this analysis is churn. In simple terms, churn refers to when a subscriber cancels their Netflix subscription and stops using the service. It's a metric that streaming platforms care deeply about because losing a paying customer is always more costly than keeping one. So understanding who is leaving, where they're from, and what their viewing habits looked like before they left can be really valuable.
 The dataset includes information like age, gender, country, subscription type, device used, favorite genre, and how often users watched — all of which help paint a picture of what a typical churned user looks like versus one who stayed.
